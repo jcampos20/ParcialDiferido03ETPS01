@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_item_1"
+        android:title="Clientes"
+        android:icon="@drawable/ic_personas" />
+    <item
+        android:id="@+id/navigation_item_2"
+        android:title="Vehiculos"
+        android:icon="@drawable/ic_vehiculo" />
+    <item
+        android:id="@+id/navigation_item_3"
+        android:title="Dueños"
+        android:icon="@drawable/ic_veh_cliente" />
+
+</menu>
